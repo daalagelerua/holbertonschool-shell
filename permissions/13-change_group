@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from=:school root hello
+chown school /hello
