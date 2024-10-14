@@ -1,2 +1,2 @@
 #!/bin/bash
-chown user[:betty] hello
+chown betty touch hello
