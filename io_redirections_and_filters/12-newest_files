@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | grep '^-' | head -n 10
+ls -lt --group-directories-first | head -n 10
