@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt --group-directories-first | head -n 10
+ls -Art | tail -n 1
