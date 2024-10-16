@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $BEST BEST=school
+BEST=School | set | grep BEST | grep -v BASH_EXECUTION_STRING
