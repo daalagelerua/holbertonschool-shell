@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $dir_count
+dir_count=$(echo "$PATH" | tr ':' '\n' | grep -c '/')
