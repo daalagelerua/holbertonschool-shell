@@ -1,2 +1,2 @@
 #!/bin/bash
-paste <(echo {a..z}) <(echo {a..z}) | grep -v 'oo' | tr '\t' '\n'
+echo {a..z}{a..z}) | grep -v 'oo' | tr '\t' '\n'
