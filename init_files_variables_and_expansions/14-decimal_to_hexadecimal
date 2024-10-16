@@ -1,2 +1,2 @@
 #!/bin/bash
-cat e- export DECIMAL=10 export DECIMAL=16
+export DECIMAL=16 | printf "%x\n" %DECIMAL
