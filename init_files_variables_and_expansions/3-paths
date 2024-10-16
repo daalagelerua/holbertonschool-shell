@@ -1,2 +1,2 @@
 #!/bin/bash
-dir_count=$(echo "$PATH" | tr ':' '\n' | grep -c '/')
+DIRS=$(find . -type d -mindepth $n)
