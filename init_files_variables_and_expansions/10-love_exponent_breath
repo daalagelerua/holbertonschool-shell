@@ -1,2 +1,2 @@
 #!/bin/bash
-export POWER=2 | export DIVIDE=1 | echo $(( $POWER * $DIVIDE ))
+export BREATH=2 | export LOVE=1 | echo $(( $BREATH * $LOVE ))
